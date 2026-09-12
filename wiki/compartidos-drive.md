@@ -1,25 +1,25 @@
 ﻿---
 tags: [indice, drive, compartidos]
-actualizado: "2026-09-11 17:52"
-total_archivos: 276
+actualizado: "2026-09-12 17:43"
+total_archivos: 275
 ---
 
 # Indice de archivos en Google Drive
 
-Generado automaticamente el 2026-09-11 17:52.
+Generado automaticamente el 2026-09-12 17:43.
 Remote: gdrive:compartidos-varios
 
 | Archivo | Link | Ultima modificacion | Tamano |
 |---------|------|---------------------|--------|
 | [International Union of Crystallography Texts on Crystallography 21] Hammond, Christopher - The Basi.pdf | [Abrir](https://drive.google.com/file/d/1EHbdBOOWlss5vtwmmmSOdX26nH7SrahD/view?usp=sharing) | 2026-09-01 | 22,3 MB |
-| [International Union of Crystallography Texts on Crystallography 21] Hammond, Christopher - The Basi-notas.md | [Abrir](https://drive.google.com/file/d/1xL4cw5um1OTDixK1T2x9RgFFbV5pxHse/view?usp=sharing) | 2026-09-10 | 0,0 MB |
+| [International Union of Crystallography Texts on Crystallography 21] Hammond, Christopher - The Basi-notas.md | [Abrir](https://drive.google.com/file/d/1xL4cw5um1OTDixK1T2x9RgFFbV5pxHse/view?usp=sharing) | 2026-09-12 | 0,0 MB |
 | 01 medici├│n y teoria de errores cfis328_parte 1.md | [Abrir](https://drive.google.com/file/d/1JezokFqPtfOIRMh134tNJXQ8PDEtJAP4/view?usp=sharing) | 2026-09-01 | 0,0 MB |
 | 01 Medici├│n y Teoria de Errores CFIS328_parte 1.pdf | [Abrir](https://drive.google.com/file/d/1iXahB908ORvdhQUvX4q9I_aDqwfrewxR/view?usp=sharing) | 2026-09-01 | 0,4 MB |
 | 02 medici├│n y teoria de errores cfis328_parte 2.md | [Abrir](https://drive.google.com/file/d/134kzMYDsCxYrhS_DOyKVkGi2DaxpAD-D/view?usp=sharing) | 2026-09-01 | 0,0 MB |
 | 02 Medici├│n y Teoria de Errores CFIS328_parte 2.pdf | [Abrir](https://drive.google.com/file/d/1AReHklLHFFDDWTB9ZOurii_QbSk9DjU1/view?usp=sharing) | 2026-09-01 | 0,1 MB |
 | 03 representaci├│n de datos cfis328.md | [Abrir](https://drive.google.com/file/d/15qnNujh1ngFY987VWDElzVqMeOl2C3PN/view?usp=sharing) | 2026-09-01 | 0,0 MB |
 | 03 Representaci├│n de datos CFIS328.pdf | [Abrir](https://drive.google.com/file/d/1lwlxePCX1FaYocAgVTp8FHqPvVwTjdRk/view?usp=sharing) | 2026-09-01 | 0,2 MB |
-| 10_1023_a_1004269309760_pdf -- Ben Bradley -- Philosophical Studies, #2, 91, pages 109-126, 1998 ---notas.md | [Abrir](https://drive.google.com/file/d/1M1mZj_tcJzaFT3JcPhd8m8zcWlh7zRLK/view?usp=sharing) | 2026-09-10 | 0,0 MB |
+| 10_1023_a_1004269309760_pdf -- Ben Bradley -- Philosophical Studies, #2, 91, pages 109-126, 1998 ---notas.md | [Abrir](https://drive.google.com/file/d/1M1mZj_tcJzaFT3JcPhd8m8zcWlh7zRLK/view?usp=sharing) | 2026-09-12 | 0,0 MB |
 | 11 Guia F├¡sica General - Electrostatica.pdf | [Abrir](https://drive.google.com/file/d/1rMaKOti4B6mB5krojpK6z0F46jRFJtd3/view?usp=sharing) | 2026-09-01 | 0,4 MB |
 | 12 Guia F├¡sica General - Circuitos.pdf | [Abrir](https://drive.google.com/file/d/1GLDR5eXNv-uPoSxxadLHkOaMt8QFn8-1/view?usp=sharing) | 2026-09-01 | 0,5 MB |
 | 13 Guia F├¡sica General - Ondas.pdf | [Abrir](https://drive.google.com/file/d/1hT90aLl53B598c5L_cphVxAtVu5nUjCf/view?usp=sharing) | 2026-09-01 | 0,4 MB |
@@ -27,9 +27,9 @@ Remote: gdrive:compartidos-varios
 | Anf├¡boles Amp.md | [Abrir](https://drive.google.com/file/d/1VSBXnkFuRmSGWX-NCqBAI-OQH271kMyx/view?usp=sharing) | 2026-09-01 | - |
 | Apunte ambientes marinos.md | [Abrir](https://drive.google.com/file/d/109tW2rGsyKyi1jm5M31EoHNRAGlBWDy1/view?usp=sharing) | 2026-09-10 | 0,0 MB |
 | Arcillas.md | [Abrir](https://drive.google.com/file/d/1TPQaPDNmeKHdtzMWy2GRuZ8hth3zUtr2/view?usp=sharing) | 2026-09-01 | - |
-| arne3-notas.md | [Abrir](https://drive.google.com/file/d/1LT4cGf_76Nr6qiOVEygNKgy7TSOKMbIV/view?usp=sharing) | 2026-09-10 | 0,0 MB |
-| arne4-notas.md | [Abrir](https://drive.google.com/file/d/1Dm-KQnmZSAgWyewS9ykBhVUYB_8SyBKi/view?usp=sharing) | 2026-09-10 | 0,0 MB |
-| arne9-notas.md | [Abrir](https://drive.google.com/file/d/1-ykLs-BiTBNXJEUopJ5n-WzSizBz_CDX/view?usp=sharing) | 2026-09-10 | 0,0 MB |
+| arne3-notas.md | [Abrir](https://drive.google.com/file/d/1LT4cGf_76Nr6qiOVEygNKgy7TSOKMbIV/view?usp=sharing) | 2026-09-12 | 0,0 MB |
+| arne4-notas.md | [Abrir](https://drive.google.com/file/d/1Dm-KQnmZSAgWyewS9ykBhVUYB_8SyBKi/view?usp=sharing) | 2026-09-12 | 0,0 MB |
+| arne9-notas.md | [Abrir](https://drive.google.com/file/d/1-ykLs-BiTBNXJEUopJ5n-WzSizBz_CDX/view?usp=sharing) | 2026-09-12 | 0,0 MB |
 | Biotitas Bt.md | [Abrir](https://drive.google.com/file/d/10H46D5AUtPtkESAwiU05FQKC6IGnogEf/view?usp=sharing) | 2026-09-01 | - |
 | Brillo no met├ílicos.md | [Abrir](https://drive.google.com/file/d/16dCRVs3L8t1dlRjhvljrwLUqo86w8wjH/view?usp=sharing) | 2026-09-09 | 0,0 MB |
 | C├│mo reconocer una roca sedimentaria.md | [Abrir](https://drive.google.com/file/d/1jdmwumny7oVyJanlc4NKVk0iCrKPrggd/view?usp=sharing) | 2026-09-01 | 0,0 MB |
@@ -41,13 +41,12 @@ Remote: gdrive:compartidos-varios
 | carta-geologica-concepcion-talcahuano.md | [Abrir](https://drive.google.com/file/d/1BteFvf5_h4nPwpLVH4lYSrFTplooUZvW/view?usp=sharing) | 2026-09-01 | 0,0 MB |
 | carta-geologica-concepcion-talcahuano.pdf | [Abrir](https://drive.google.com/file/d/1mQ90UGo6thfUUBs6RWFtKI9nj1i2N3H3/view?usp=sharing) | 2026-09-01 | 15,9 MB |
 | Cearreta - La definici├│n geol├│gica del Antropoceno seg├║n el Anthropocene Working Group (AWG).pdf | [Abrir](https://drive.google.com/file/d/1xETdZ4glkbXiIzTrLkWiXfKyNIWKDNHq/view?usp=sharing) | 2026-09-07 | 2,0 MB |
-| Ciencias de la tierra (2a_ ed_) -- P├®rez Riobo, Anal├¡a & Vrba, Ana -- 2a_ edici├│n ampliada, Ituzaing-notas.md | [Abrir](https://drive.google.com/file/d/1Txau-RevNA3B8Z4ouEPZ1XgntmCKYucx/view?usp=sharing) | 2026-09-10 | 0,0 MB |
+| Ciencias de la tierra (2a_ ed_) -- P├®rez Riobo, Anal├¡a & Vrba, Ana -- 2a_ edici├│n ampliada, Ituzaing-notas.md | [Abrir](https://drive.google.com/file/d/1Txau-RevNA3B8Z4ouEPZ1XgntmCKYucx/view?usp=sharing) | 2026-09-12 | 0,0 MB |
 | Ciencias de la tierra (2a_ ed_) -- P├®rez Riobo, Anal├¡a & Vrba, Ana -- 2a_ edicio╠ün ampliada, Ituzaingo╠ü, 2019 -- Editorial Maipue -- isbn13 9789874490.pdf | [Abrir](https://drive.google.com/file/d/1M85M05fZIoQ7ELg4ATiDBYg99M4uRiB6/view?usp=sharing) | 2026-09-01 | 4,2 MB |
 | Circ├│n.md | [Abrir](https://drive.google.com/file/d/1OP7fzkbv9d0zVBYE3HvjlU7aggk-EU7n/view?usp=sharing) | 2026-09-01 | - |
 | Clase 1 y2 3   4  5 de Derivadas .pdf | [Abrir](https://drive.google.com/file/d/1slFWbXWZUsighZ8o6O3ZafHkK_iSd7cr/view?usp=sharing) | 2026-09-01 | 1,4 MB |
 | Clivaje-formas.md | [Abrir](https://drive.google.com/file/d/1Vutp0Oq_ktxOiLawdP9NxjCgJjk_WceJ/view?usp=sharing) | 2026-09-09 | 0,0 MB |
 | Clorita.md | [Abrir](https://drive.google.com/file/d/1OrlGwbk5dnoMsUmoHDXHr4EVSEyq0RWj/view?usp=sharing) | 2026-09-01 | - |
-| compartidos-drive.md | [Abrir](https://drive.google.com/file/d/1FrhLhhazjm4DoAzImeOkHyjnvSdgChu6/view?usp=sharing) | 2026-09-06 | 0,0 MB |
 | Cristalograf├¡a morfol├│gica.md | [Abrir](https://drive.google.com/file/d/1q6T69OpMlOzf1_AGIuaKKz10o6-RGTIu/view?usp=sharing) | 2026-09-01 | 0,0 MB |
 | Cristalograf├¡a.md | [Abrir](https://drive.google.com/file/d/11rG_qp0cbxV32BIW6-XivRfTeojrs4A9/view?usp=sharing) | 2026-09-08 | 0,0 MB |
 | Cuarzo Qz.md | [Abrir](https://drive.google.com/file/d/1cVXNFDJ-NZU3Kwti3rwq6Nahg-rJYL2L/view?usp=sharing) | 2026-09-01 | - |
@@ -55,11 +54,11 @@ Remote: gdrive:compartidos-varios
 | Cuarzo secundario_dup1.md | [Abrir](https://drive.google.com/file/d/1d1IvusLHBELwbmbN-8eHWTLb8HblaTzb/view?usp=sharing) | 2026-09-01 | 0,0 MB |
 | David Rojas Caballero, Jorge Paredes - Compendio de geolog├¡a general. 1 1 (2016, Macro Editorial (Ibd)) - libgen.li.md | [Abrir](https://drive.google.com/file/d/12eI81yjSrHWlgkB-ShhSlHP29F6R8bHH/view?usp=sharing) | 2026-09-01 | 0,0 MB |
 | David Rojas Caballero, Jorge Paredes - Compendio de geolog├¡a general. 1 1 (2016, Macro Editorial (Ibd)) - libgen.li_dup1.md | [Abrir](https://drive.google.com/file/d/1SkCu8CydiAHIEkd-OBt2Q3wN-VDkPh0Q/view?usp=sharing) | 2026-09-01 | 0,0 MB |
-| Deep ecology-notas.md | [Abrir](https://drive.google.com/file/d/1IIfUyC3NiuUx5JEWe-huq7itf_vbEEU1/view?usp=sharing) | 2026-09-10 | 0,0 MB |
+| Deep ecology-notas.md | [Abrir](https://drive.google.com/file/d/1IIfUyC3NiuUx5JEWe-huq7itf_vbEEU1/view?usp=sharing) | 2026-09-12 | 0,0 MB |
 | Diagrama de Streckeisen.png | [Abrir](https://drive.google.com/file/d/1Wfogh-_PpNtsAySxDgSyDePKV5yQ6IY6/view?usp=sharing) | 2026-09-01 | 0,1 MB |
 | Diagrama para los 17 patrones de planos.md | [Abrir](https://drive.google.com/file/d/1VOyUukQjerhrQSkUynl_ehMxlBKe4tlH/view?usp=sharing) | 2026-09-08 | 0,0 MB |
 | Earth science - 15th ed -- Edward J_ Tarbuck, Frederick K_ Lutgens, Dennis G_ Tasa -- 15, 2017 -- Pearson Education, Inc -- isbn13 9780134543536 -- ce3d8dd52e687406c205d14e27d4820c -- AnnaÔÇÖs Archive-notas.md | [Abrir](https://drive.google.com/file/d/1MHyeZfwmjGpMjm2J9lwETMaVVayTfWci/view?usp=sharing) | 2026-09-01 | 0,0 MB |
-| EARTHS~1-notas.md | [Abrir](https://drive.google.com/file/d/1CjCoQSjtDUlrohH-LV2DxuaSYrVs9-45/view?usp=sharing) | 2026-09-10 | 0,0 MB |
+| EARTHS~1-notas.md | [Abrir](https://drive.google.com/file/d/1CjCoQSjtDUlrohH-LV2DxuaSYrVs9-45/view?usp=sharing) | 2026-09-12 | 0,0 MB |
 | earth-science-15th-ed.pdf | [Abrir](https://drive.google.com/file/d/1_yg1dS-V8elhMLe4PQWSFPl7Rv3KB_yz/view?usp=sharing) | 2026-09-01 | 207,1 MB |
 | EJERCICIOS MILLER Y WEISS.docx | [Abrir](https://drive.google.com/file/d/1jRdBsn9lftrOksuLwNxQ9PDWXWXbXxNe/view?usp=sharing) | 2026-09-01 | 8,4 MB |
 | EJERCICIOS+MILLER+Y+WEISS.docx | [Abrir](https://drive.google.com/file/d/18ZYu6iWm4QvEYuMxy_bX36rtR4ECWKPa/view?usp=sharing) | 2026-08-31 | 8,4 MB |
@@ -122,7 +121,7 @@ Remote: gdrive:compartidos-varios
 | ficha_rocas_piroclasticas.pdf | [Abrir](https://drive.google.com/file/d/1FFeBagMInBiKBvMJwgv5REX9aq-8jaeX/view?usp=sharing) | 2026-09-08 | 0,4 MB |
 | ficha_rocas_piroclasticas_24141776.pdf | [Abrir](https://drive.google.com/file/d/17n3v-1osGVbY2-7734gJzmxbJfJbanYC/view?usp=sharing) | 2026-08-31 | 0,4 MB |
 | FisicaUniversitariaVolumen1-Openstax- En espa├▒ol-comprimido.pdf | [Abrir](https://drive.google.com/file/d/1MLAcMqzCNtTHzdI_8qSHOssYqwE7AqoN/view?usp=sharing) | 2026-09-05 | 22,7 MB |
-| Four modern philosophers_ Carnap, Wittgenstein, Heidegger, -- N├ªss, Arne Naess -- 2019 -- a2bd5dd767-notas.md | [Abrir](https://drive.google.com/file/d/1wIt4X4_rL8Yir2IQxYCxqbYB9W0ddVcf/view?usp=sharing) | 2026-09-10 | 0,0 MB |
+| Four modern philosophers_ Carnap, Wittgenstein, Heidegger, -- N├ªss, Arne Naess -- 2019 -- a2bd5dd767-notas.md | [Abrir](https://drive.google.com/file/d/1wIt4X4_rL8Yir2IQxYCxqbYB9W0ddVcf/view?usp=sharing) | 2026-09-12 | 0,0 MB |
 | gu%c3%ada+-+semana+3.md | [Abrir](https://drive.google.com/file/d/1Xo6iRqy-kYO8v1XhJWqU7kAfmYxQi52A/view?usp=sharing) | 2026-09-01 | 0,0 MB |
 | gu_c3_ada+-+semana+3.pdf | [Abrir](https://drive.google.com/file/d/18ZAOwwn1njQleowhkzE2MgCbAZgiiCEq/view?usp=sharing) | 2026-09-01 | 0,1 MB |
 | Gu├¡a_de_Estudio_Solemne_2_Calculo_Diferencial__ (1).pdf | [Abrir](https://drive.google.com/file/d/1hHlkqIT-9bWH61_no7xb2ag8_PCXmU_i/view?usp=sharing) | 2026-09-01 | 0,1 MB |
@@ -164,7 +163,7 @@ Remote: gdrive:compartidos-varios
 | intfunciones-trigonometricas.pdf | [Abrir](https://drive.google.com/file/d/1UWMGJMq7thNIosUeSe00Qnsjpet2yBg9/view?usp=sharing) | 2026-09-03 | 0,0 MB |
 | int-guiacert1.pdf | [Abrir](https://drive.google.com/file/d/1DaonzugtkgNjdFsNi5Vh50de4FiIjYDn/view?usp=sharing) | 2026-09-08 | 0,1 MB |
 | int-lista de integrales.pdf | [Abrir](https://drive.google.com/file/d/16owMVGIHH0EyFr92r2IC-51YnHp1CVpF/view?usp=sharing) | 2026-09-01 | 0,1 MB |
-| Is it painful to think_ _ conversations with Arne Naess -- David Rothenberg; Arne N├ªss -- University-notas.md | [Abrir](https://drive.google.com/file/d/1tsfp5e0HFSCa2IN-JvU5loTfxjfMmHJD/view?usp=sharing) | 2026-09-10 | 0,0 MB |
+| Is it painful to think_ _ conversations with Arne Naess -- David Rothenberg; Arne N├ªss -- University-notas.md | [Abrir](https://drive.google.com/file/d/1tsfp5e0HFSCa2IN-JvU5loTfxjfMmHJD/view?usp=sharing) | 2026-09-12 | 0,0 MB |
 | Lab3 mineralogia.pdf | [Abrir](https://drive.google.com/file/d/1NvqfjwY9yADiZ3hK3DhBlYuf5GkcLYh8/view?usp=sharing) | 2026-09-03 | 15,5 MB |
 | Lampr├│fidos.md | [Abrir](https://drive.google.com/file/d/10zQ2fy32sHfpVEsJLrOOSQ9Wz1QkQ7yd/view?usp=sharing) | 2026-09-01 | 0,0 MB |
 | learning_math.md | [Abrir](https://drive.google.com/file/d/1rYL3NIdtZ4gE2gUPccOD3pLSJM7nZF8J/view?usp=sharing) | 2026-09-01 | 0,0 MB |
@@ -173,8 +172,8 @@ Remote: gdrive:compartidos-varios
 | Maclas.md | [Abrir](https://drive.google.com/file/d/1DO6-_JL5G00f4Cy06Id21HTzKqhD2KGA/view?usp=sharing) | 2026-09-01 | 0,0 MB |
 | Magnetita.md | [Abrir](https://drive.google.com/file/d/1Nv9Nsv7FyxJStBX4pZotTixwMEjLpYuy/view?usp=sharing) | 2026-09-01 | - |
 | Manual of Mineral Science (Cornelis Klein Barbara Dutrow) (z-library.sk, 1lib.sk, z-lib.sk).pdf | [Abrir](https://drive.google.com/file/d/1ZGSz4OPzqzb2jMpafkK8u0U3s-PrKakj/view?usp=sharing) | 2026-09-01 | 50,9 MB |
-| Manual of Mineral Science (Cornelis Klein Barbara Dutrow) (z-library.sk, 1lib.sk, z-lib.sk)-notas.md | [Abrir](https://drive.google.com/file/d/1mIe0LjpjcdTy1xnBYEHNIPMPAytbtT9D/view?usp=sharing) | 2026-09-10 | 0,0 MB |
-| Manual20Mineral2C20Edition28Manual20Mineralogy%29-notas.md | [Abrir](https://drive.google.com/file/d/1jnuvVlibHNrmr2zQCxXvOe429CZ9fsip/view?usp=sharing) | 2026-09-10 | 0,0 MB |
+| Manual of Mineral Science (Cornelis Klein Barbara Dutrow) (z-library.sk, 1lib.sk, z-lib.sk)-notas.md | [Abrir](https://drive.google.com/file/d/1mIe0LjpjcdTy1xnBYEHNIPMPAytbtT9D/view?usp=sharing) | 2026-09-12 | 0,0 MB |
+| Manual20Mineral2C20Edition28Manual20Mineralogy%29-notas.md | [Abrir](https://drive.google.com/file/d/1jnuvVlibHNrmr2zQCxXvOe429CZ9fsip/view?usp=sharing) | 2026-09-12 | 0,0 MB |
 | Medios de dep├│sito.md | [Abrir](https://drive.google.com/file/d/1X27y13X_bnlnHp9ZPVWqEMGf1MaFFf6o/view?usp=sharing) | 2026-09-02 | 0,0 MB |
 | Mi roca.md | [Abrir](https://drive.google.com/file/d/1OL7DQ3cNqSOcK9cCPnZwNwM0fnKQLE7T/view?usp=sharing) | 2026-09-01 | 0,0 MB |
 | Microclina Mc.md | [Abrir](https://drive.google.com/file/d/19ZEu3SK4d4oD5S7PnhjcCw4EoKmUiyOv/view?usp=sharing) | 2026-09-01 | - |
@@ -194,12 +193,12 @@ Remote: gdrive:compartidos-varios
 | Myc2708.pdf | [Abrir](https://drive.google.com/file/d/1uxMqwC2U9zNU0ARvmzzTcyfTZUx9FW9_/view?usp=sharing) | 2026-09-01 | 22,3 MB |
 | Myc2708lab.pdf | [Abrir](https://drive.google.com/file/d/173Senb-nImfj00cOjxj8OOytDQ9ehUV4/view?usp=sharing) | 2026-09-01 | 24,5 MB |
 | myc-tabla6.5.md | [Abrir](https://drive.google.com/file/d/18FKqtTniY3ya7qmo_8Lbf54JvKgrDt5m/view?usp=sharing) | 2026-09-08 | 0,0 MB |
-| nazi-comunismo_buscable-notas.md | [Abrir](https://drive.google.com/file/d/15hWn_j_V-xO_t9Pnu6eHlv0VdITpTfZl/view?usp=sharing) | 2026-09-10 | 0,0 MB |
-| OAP_Naess_Intrinsic_Value.pdf-notas.md | [Abrir](https://drive.google.com/file/d/1LUgpi102nqtLLGUCpgcKfIB6NE9TrVYe/view?usp=sharing) | 2026-09-10 | 0,0 MB |
+| nazi-comunismo_buscable-notas.md | [Abrir](https://drive.google.com/file/d/15hWn_j_V-xO_t9Pnu6eHlv0VdITpTfZl/view?usp=sharing) | 2026-09-12 | 0,0 MB |
+| OAP_Naess_Intrinsic_Value.pdf-notas.md | [Abrir](https://drive.google.com/file/d/1LUgpi102nqtLLGUCpgcKfIB6NE9TrVYe/view?usp=sharing) | 2026-09-12 | 0,0 MB |
 | Olivino Ol.md | [Abrir](https://drive.google.com/file/d/1VAsfQuTU5d5ACRE1suLtsZw9ibRitVt5/view?usp=sharing) | 2026-09-01 | - |
 | Ortoclasa Or.md | [Abrir](https://drive.google.com/file/d/1nIU1w3pt1Y9yR2f_ELAWlnahbGex2dTe/view?usp=sharing) | 2026-09-01 | - |
 | Paleontolog├¡a -- Garc├¡a, Pedro & Sour, Francisco -- 2024 -- Universidad Nacional Aut├│noma de M├®xico (UNAM) -- isbn13 9786073095150 -- 21aa7f423bf111f49e26.pdf | [Abrir](https://drive.google.com/file/d/1e96hc3-5I-1MW9JKunZtZdbduWVSnG_7/view?usp=sharing) | 2026-09-01 | 10,3 MB |
-| Paleontolog├¡a -- Garc├¡a, Pedro & Sour, Francisco -- 2024 -- Universidad Nacional Aut├│noma de M├®xico-notas.md | [Abrir](https://drive.google.com/file/d/195daNvSMMCziX68dvPM0l9Zf24hi8BNV/view?usp=sharing) | 2026-09-10 | 0,0 MB |
+| Paleontolog├¡a -- Garc├¡a, Pedro & Sour, Francisco -- 2024 -- Universidad Nacional Aut├│noma de M├®xico-notas.md | [Abrir](https://drive.google.com/file/d/195daNvSMMCziX68dvPM0l9Zf24hi8BNV/view?usp=sharing) | 2026-09-12 | 0,0 MB |
 | Paleontolog├¡a.md | [Abrir](https://drive.google.com/file/d/1oDC-glqMnFO9nQkTs9nCF8qG-nyBj600/view?usp=sharing) | 2026-09-02 | 0,0 MB |
 | paper estimaciones fermi_revista_epsilon84_5(1) (1).md | [Abrir](https://drive.google.com/file/d/1ZjOaLuo5M_ACbT8thBOpezUSAstMVrEn/view?usp=sharing) | 2026-09-01 | 0,0 MB |
 | Paper estimaciones fermi_revista_epsilon84_5(1) (1).pdf | [Abrir](https://drive.google.com/file/d/1Evg3zT8fzKT-UgDehQklNyOihMfAfVFM/view?usp=sharing) | 2026-09-01 | 0,3 MB |
@@ -216,8 +215,8 @@ Remote: gdrive:compartidos-varios
 | Pasted image 20260909213525.png | [Abrir](https://drive.google.com/file/d/1D4ZgSm4qN7iCSZOKqL9oBgpKsRqFxovG/view?usp=sharing) | 2026-09-09 | 0,1 MB |
 | Pasted image 20260910201055.png | [Abrir](https://drive.google.com/file/d/1ruo5k-ClKZKCD3MtoTQBEP8957LVxa6k/view?usp=sharing) | 2026-09-10 | 0,5 MB |
 | Pauta_Control_1_Calculo_Diferencial.pdf | [Abrir](https://drive.google.com/file/d/1LEaTsWhL4KTgn4U3zVJG7Cs3ZED3Ez1T/view?usp=sharing) | 2026-09-01 | 0,1 MB |
-| PDF-notas.md | [Abrir](https://drive.google.com/file/d/1XFJaI_KoI1jecqBoKfCVhFI0fmKN7yii/view?usp=sharing) | 2026-09-10 | 0,0 MB |
-| PETROG~2-notas.md | [Abrir](https://drive.google.com/file/d/1HdzsRVlyAaxdiJCUtSJvQ67J09czs5ph/view?usp=sharing) | 2026-09-10 | 0,0 MB |
+| PDF-notas.md | [Abrir](https://drive.google.com/file/d/1XFJaI_KoI1jecqBoKfCVhFI0fmKN7yii/view?usp=sharing) | 2026-09-12 | 0,0 MB |
+| PETROG~2-notas.md | [Abrir](https://drive.google.com/file/d/1HdzsRVlyAaxdiJCUtSJvQ67J09czs5ph/view?usp=sharing) | 2026-09-12 | 0,0 MB |
 | Petrograf├¡a de rocas ├¡gneas y metam├│rficas_ -- CASTRO DORADO, ANTONIO -- 1┬¬ ed, Madrid, 2015 -- Ediciones Paraninfo, S_A -- isbn13 9788428335164 -- 6029422dd22273c15502735de9219de4 -- AnnaÔÇÖs Archive.pdf | [Abrir](https://drive.google.com/file/d/1w5F6iF3p-UWEeHihvmtWFgtLLVfIt5m9/view?usp=sharing) | 2026-09-01 | 33,4 MB |
 | Petrograf├¡a.md | [Abrir](https://drive.google.com/file/d/1htUpHOtPLB94YIT-27Ll8VZotYhENlmc/view?usp=sharing) | 2026-09-07 | 0,0 MB |
 | Piroxenos Px.md | [Abrir](https://drive.google.com/file/d/1R9aF_f5C3opr63zQGWTy4kMUERfzOE9-/view?usp=sharing) | 2026-09-01 | - |
@@ -239,9 +238,9 @@ Remote: gdrive:compartidos-varios
 | quc3admica-la-ciencia-central-brown.pdf | [Abrir](https://drive.google.com/file/d/1nMPQw19FL7a_KQyH-smXlYOiOzAdQFh4/view?usp=sharing) | 2026-09-01 | 52,6 MB |
 | quc3admica-la-ciencia-central-brown_dup1.md | [Abrir](https://drive.google.com/file/d/1fRJrpiDAy_rQbObD6CQm66q3Ll-m9848/view?usp=sharing) | 2026-09-01 | 0,0 MB |
 | Rocas igneas.md | [Abrir](https://drive.google.com/file/d/1M-2DodR3UlEc0xio6AwpRDusaS3vyu3R/view?usp=sharing) | 2026-09-06 | 0,0 MB |
-| rp40_article1_sylvan_deepecology1-notas.md | [Abrir](https://drive.google.com/file/d/11flP1Bu3-sBfBBiHnSXX5gSwgujO1PYk/view?usp=sharing) | 2026-09-10 | 0,0 MB |
+| rp40_article1_sylvan_deepecology1-notas.md | [Abrir](https://drive.google.com/file/d/11flP1Bu3-sBfBBiHnSXX5gSwgujO1PYk/view?usp=sharing) | 2026-09-12 | 0,0 MB |
 | Rutilo.md | [Abrir](https://drive.google.com/file/d/1nfqnZArSXFSmoemjv_AhaWoyNocb1Res/view?usp=sharing) | 2026-09-01 | - |
-| S5D00007-notas.md | [Abrir](https://drive.google.com/file/d/1vNe-ctZJXMfiJmq6UjFySrK8UsJfOaiw/view?usp=sharing) | 2026-09-10 | 0,0 MB |
+| S5D00007-notas.md | [Abrir](https://drive.google.com/file/d/1vNe-ctZJXMfiJmq6UjFySrK8UsJfOaiw/view?usp=sharing) | 2026-09-12 | 0,0 MB |
 | Screenshot From 2026-06-19 11-54-10.png | [Abrir](https://drive.google.com/file/d/1CISjsbSB6NhNi6XpDzNrWhL0CsnB3RZt/view?usp=sharing) | 2026-09-01 | 1,9 MB |
 | Screenshot From 2026-06-19 11-56-28.png | [Abrir](https://drive.google.com/file/d/1EiMxmqoWpvRGzOZcuOeMW2diJRMChTIP/view?usp=sharing) | 2026-09-01 | 3,2 MB |
 | Screenshot From 2026-06-19 12-17-37.png | [Abrir](https://drive.google.com/file/d/1g5RZdEoME-fCRDMixt4F8wRRhw3yjF7_/view?usp=sharing) | 2026-09-01 | 2,6 MB |
@@ -275,18 +274,18 @@ Remote: gdrive:compartidos-varios
 | tabla_65_sistemas_cristalinos.html | [Abrir](https://drive.google.com/file/d/1IBZ0stJdQKQ1aCuhXK8KdyeFx-R7T-rF/view?usp=sharing) | 2026-09-01 | 0,0 MB |
 | Taller 11.pdf | [Abrir](https://drive.google.com/file/d/1J6BL02xyJVLJlkhax4F0qonVdwLsZSow/view?usp=sharing) | 2026-09-01 | 18,3 MB |
 | Tarbuck - Ciencias de la Tierra. Una introducci├│n a la geolog├¡a f├¡sica.pdf | [Abrir](https://drive.google.com/file/d/1twfFBAV_r-aFeO7_CaFzJ_ywElXby4Ou/view?usp=sharing) | 2026-09-01 | 18,1 MB |
-| Tarbuck - Ciencias de la Tierra. Una introducci├│n a la geolog├¡a f├¡sica.pdf-notas.md | [Abrir](https://drive.google.com/file/d/1e4CK-tPSOhavq6tHsPc7w6RPn0Yv7o0a/view?usp=sharing) | 2026-09-10 | 0,0 MB |
+| Tarbuck - Ciencias de la Tierra. Una introducci├│n a la geolog├¡a f├¡sica.pdf-notas.md | [Abrir](https://drive.google.com/file/d/1e4CK-tPSOhavq6tHsPc7w6RPn0Yv7o0a/view?usp=sharing) | 2026-09-12 | 0,0 MB |
 | tarbuck-y-lutgens-ciencias-de-la-tierra-8va-ed.-1-notas.md | [Abrir](https://drive.google.com/file/d/16UCLaSSq1bkLxdMdslCup8RzKkNhNOe5/view?usp=sharing) | 2026-09-01 | 0,0 MB |
-| Tesis LAB-notas.md | [Abrir](https://drive.google.com/file/d/1W8vLRg-MXTyapsemi1hMYk8gxwGMCpDd/view?usp=sharing) | 2026-09-10 | 0,0 MB |
+| Tesis LAB-notas.md | [Abrir](https://drive.google.com/file/d/1W8vLRg-MXTyapsemi1hMYk8gxwGMCpDd/view?usp=sharing) | 2026-09-12 | 0,0 MB |
 | TEXTURAS20ROCASC3%81NICAS.pdf | [Abrir](https://drive.google.com/file/d/14Z0H4bjAt9XkxHFlHZ2Lkf8G7_VFILR8/view?usp=sharing) | 2026-09-08 | 170,7 MB |
-| The blue planet _ an introduction to earth system science _ -- Brian J_ Skinner, Barbara W_ Murck ---notas.md | [Abrir](https://drive.google.com/file/d/1LLE2HxSd8uArixxblN2f-tO8f2oIPEdz/view?usp=sharing) | 2026-09-10 | 0,0 MB |
-| The Ecology of Wisdom_ Writings by Arne Naess -- Arne Naess, Alan Drengson, Bill Devall -- 2008 -- C-notas.md | [Abrir](https://drive.google.com/file/d/15Jd8EfBQlaPtPTnelfGJjZvjx2knnOrD/view?usp=sharing) | 2026-09-10 | 0,0 MB |
+| The blue planet _ an introduction to earth system science _ -- Brian J_ Skinner, Barbara W_ Murck ---notas.md | [Abrir](https://drive.google.com/file/d/1LLE2HxSd8uArixxblN2f-tO8f2oIPEdz/view?usp=sharing) | 2026-09-12 | 0,0 MB |
+| The Ecology of Wisdom_ Writings by Arne Naess -- Arne Naess, Alan Drengson, Bill Devall -- 2008 -- C-notas.md | [Abrir](https://drive.google.com/file/d/15Jd8EfBQlaPtPTnelfGJjZvjx2knnOrD/view?usp=sharing) | 2026-09-12 | 0,0 MB |
 | tipos-de-fosilizacion.md | [Abrir](https://drive.google.com/file/d/1crtN_wLFj313RuDsk9hTp5cOYjADCaer/view?usp=sharing) | 2026-09-11 | 0,0 MB |
 | Titanita.md | [Abrir](https://drive.google.com/file/d/1g7UGybYWkm3FwesEsH9BKwUwrmSk8TNR/view?usp=sharing) | 2026-09-01 | - |
-| Toward a Transpersonal Ecology -- Warwick Fox -- 1995 -- SUNY Press -- 9780791427750 -- e0e0dd57ff54-notas.md | [Abrir](https://drive.google.com/file/d/1g4NFZs3W4uvxXJ-h8w4fWBa96BCQqaRp/view?usp=sharing) | 2026-09-10 | 0,0 MB |
-| Vad├®n - 2014 - Heidegger, ┼¢i┼¥ek and Revolution-notas.md | [Abrir](https://drive.google.com/file/d/1wOCv7imatr9nDXNe3hVBRqUT3B-d6HAa/view?usp=sharing) | 2026-09-10 | 0,0 MB |
+| Toward a Transpersonal Ecology -- Warwick Fox -- 1995 -- SUNY Press -- 9780791427750 -- e0e0dd57ff54-notas.md | [Abrir](https://drive.google.com/file/d/1g4NFZs3W4uvxXJ-h8w4fWBa96BCQqaRp/view?usp=sharing) | 2026-09-12 | 0,0 MB |
+| Vad├®n - 2014 - Heidegger, ┼¢i┼¥ek and Revolution-notas.md | [Abrir](https://drive.google.com/file/d/1wOCv7imatr9nDXNe3hVBRqUT3B-d6HAa/view?usp=sharing) | 2026-09-12 | 0,0 MB |
 | Varios ambientes transicionales.md | [Abrir](https://drive.google.com/file/d/19WjGxCuEFfaWKzCqbXhGCOQnxNKbz5b_/view?usp=sharing) | 2026-09-10 | 0,0 MB |
 | volumen goma FEX.xlsx | [Abrir](https://drive.google.com/file/d/1KmnEcOFmg6DHgliwR4cT55H0YHrCI_WJ/view?usp=sharing) | 2026-09-01 | 0,0 MB |
 
 ---
-_276 archivo(s) en Drive._
+_275 archivo(s) en Drive._
