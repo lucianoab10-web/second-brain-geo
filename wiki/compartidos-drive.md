@@ -1,12 +1,12 @@
 ﻿---
 tags: [indice, drive, compartidos]
-actualizado: "2026-09-13 16:07"
+actualizado: "2026-09-13 16:10"
 total_archivos: 219
 ---
 
 # Indice de archivos en Google Drive
 
-Generado automaticamente el 2026-09-13 16:07.
+Generado automaticamente el 2026-09-13 16:10.
 Remote: gdrive:compartidos-varios
 
 | Archivo | Link | Ultima modificacion | Tamano |
