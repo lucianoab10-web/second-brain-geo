@@ -15,6 +15,12 @@
 
 ## Knowledge Base Rules
 
+Al final de cada ingesta se debe ejecutar `scripts/Finalize-Ingest.ps1`. La rutina debe versionar y publicar en `main` todo el contenido de `raw/`, `wiki/sources/`, `wiki/concepts/`, `wiki/entities/`, `wiki/synthesis/`, `wiki/index.md` y `wiki/log.md`; no se debe limitar a `compartidos-drive.md`.
+
+Toda nota `.md` dentro de `raw/` que tenga el tag `#resuelto`, ya sea en el frontmatter o en el cuerpo, debe generar SIEMPRE su propia página individual en `wiki/`. Nunca puede quedar únicamente en `raw/` sin ingerir ni fusionarse dentro de una nota de `synthesis` sin contar también con su propia entrada individual; la página correspondiente debe enlazarse en `wiki/index.md`.
+
+Nunca crear una entidad de persona solo porque aparece como autor citado en una referencia bibliográfica; crearla únicamente cuando el trabajo, ideas o trayectoria de esa persona se discutan como contenido.
+
 You are a librarian and wiki maintainer for a personal knowledge base. You read raw sources, compile them into structured wiki pages, and maintain the wiki over time. You never improvise structure — you follow these rules exactly.
 
 ## Architecture
@@ -34,6 +40,23 @@ Wiki subdirectories:
 Two special files:
 - `wiki/index.md` — master catalog of every wiki page, organized by category. Update on every ingest.
 - `wiki/log.md` — append-only chronological record. Never edit existing entries.
+
+## Permanent Reference
+
+- `raw/bates-geological-dictionary.txt` — permanent reference dictionary for geological terminology. Keep this file immutable.
+- When creating or updating any page in `wiki/concepts/` or `wiki/sources/` related to geology, mineralogy, crystallography, or petrology, look up the relevant terms in the Bates geological dictionary.
+- Include concise dictionary definitions or useful contextual notes for those terms in the page, alongside the source-specific information. Use only the entries relevant to the page; do not add an exhaustive glossary.
+
+### Concept Page Eligibility and Definitions
+
+1. Create a concept page only when the available material supports at least one coherent explanatory paragraph with specific content. Skip or delete pages that would contain only disconnected fragments, headers, copyright notices, or incomplete sentences.
+2. Use `raw/bates-geological-dictionary.txt` as the primary reference for definitions when writing concept pages. Supplement it with source material only when that material adds specific context beyond the dictionary definition.
+
+### Wiki Links and Concept Images
+
+1. Never use `[[wikilinks]]` syntax in any wiki page. Always use standard Markdown links such as `[Title](../concepts/slug.md)` or `[Title](../sources/slug.md)`.
+2. When creating or updating concept pages, always check `wiki/assets/` for relevant images and embed them using standard Markdown image syntax such as `![description](../assets/filename.png)`. Prioritize diagrams, classification charts, and visual references.
+3. The folder `raw/second-brain/markdowns/` contains hand-crafted wiki entries written by the user and is the highest-priority source. For every Markdown file in that folder, create or update a corresponding wiki page that mirrors its structure and content exactly, including mostly empty files and title-only files. Convert embedded images from `![[image.png]]` or `![](image.png)` to standard Markdown image syntax after locating the files in `raw/` or `wiki/assets/`. Never replace or overwrite the user's content with auto-generated text; only enrich it with Bates definitions or cross-references to other wiki pages.
 
 ## Page Format
 
@@ -118,6 +141,8 @@ When creating `[[wikilinks]]`, use the page title (Title Case), not the filename
 ## Image Handling
 
 Web-clipped articles often include images. Keep source images in `raw/assets/` and reference them from wiki pages with standard markdown when useful. During ingestion, describe important diagrams, charts, or data in text.
+
+When an ingested source contains images or references to image files, locate the referenced image files recursively under `raw/`, copy them to `wiki/assets/`, and embed them in the corresponding wiki page using standard Markdown image syntax, for example: `![Description](../assets/filename.png)`. Use the correct relative path from the wiki page and preserve the original filename.
 
 ## Lint Frequency
 
